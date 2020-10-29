@@ -1,4 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-* linguist-vendored
-*.C# linguist-vendored=false
+# to change language of repo from Javascript to Python
+*.js linguist-language=C#
